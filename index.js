@@ -73,7 +73,7 @@ function init() {
                 console.log(`You can't leave any spots blank, please tyr again:`);
                 init();
             } else {
-                writeToFile('README.md', response)
+                writeToFile('Generated-README.md', response)
             }
 });
 }
