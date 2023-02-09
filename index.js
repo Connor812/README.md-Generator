@@ -69,7 +69,12 @@ function init() {
         .prompt(questions)
         .then((response) => {
             console.log(response)
-            writeToFile('README.md', response)
+            if (response.title == '' || response.description == '' || response.install == '' || response.usage == '' || response.test == '' || response.contribution == '' || response.github == '' || response.email == '') {
+                console.log(`You can't leave any spots blank, please tyr again:`);
+                init();
+            } else {
+                writeToFile('README.md', response)
+            }
 });
 }
 
