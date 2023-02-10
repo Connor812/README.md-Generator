@@ -28,7 +28,8 @@ Thank you to the University of Toronto for teaching me how to code! Couldn't hav
 
 ## License
 
-License: 
+License: GNU GENERAL PUBLIC LICENSE
+         Version 3, 29 June 2007
 
 ## Video
 
