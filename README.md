@@ -33,4 +33,4 @@ License: GNU GENERAL PUBLIC LICENSE
 
 ## Video
 
-[How to Video](https://drive.google.com/file/d/1EI9nwfmdf-l0oOytuTbYS-XOCmf2eu-f/view)
+[How to Video](https://drive.google.com/file/d/1u73UKKvEt0tzVEDBGsqHwrR1mnIjBZG8/view)
